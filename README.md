@@ -1,5 +1,5 @@
 # JavaScript Review Project
-By: [Your Full Name]
+By: Christian Reeve Manto
 
 ## Description
 This is a project for reviewing JavaScript concepts.
